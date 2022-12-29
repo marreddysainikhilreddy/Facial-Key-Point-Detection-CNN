@@ -12,7 +12,7 @@ nose tip, etc.</p></b>
 <img src="images/landmarks_numbered.jpg" width="30%" height="30%">
 
 ### Detecting faces in images<br><br>
-<img src="images/obama.PNG" width="40%" height="40%">
+<img src="https://user-images.githubusercontent.com/48044041/209969986-8e456271-5431-449f-89bd-9ce307182cab.PNG" width="40%" height="40%">
 
 ### Keypoints detected in images<br><br>
-<img src="images/keypoints.JPG">
+<img src="https://user-images.githubusercontent.com/48044041/209970077-342e618d-1240-4768-8cf7-159d3f162fdc.JPG">
